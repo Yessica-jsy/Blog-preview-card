@@ -18,18 +18,19 @@ main{
 }
 .picture{
     margin-top: 0;
-    width: 245px;
-    height: 141px;
+    width: 201.25px;
+    height: 115.82px;
     border-radius: 10px;
+    background-size: cover;
     background-image: url(../assets/img/illustration-article.png);
 }
 .cardContainer{
     border-radius: 4%;
     border: 1px solid;
     background-color: rgb(255, 255, 255);
-    width: 280px;
+    width: 230px;
     display: flex;
-    height: 378px;
+    height: 310.5px;
     box-shadow: 10px 10px 0 black;
 }
 .tag, h1{
@@ -48,8 +49,8 @@ main{
 .card{
     display: flex;
     flex-direction: column;
-    width:260px;
-    height: 349px;
+    width:213.57px;
+    height: 286.68px;
 }
 .instructor{
     margin-left: 0;
